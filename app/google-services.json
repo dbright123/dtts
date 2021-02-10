@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801652887259",
+    "project_id": "dtts-efd09",
+    "storage_bucket": "dtts-efd09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801652887259:android:d84da990b8d863262486fe",
+        "android_client_info": {
+          "package_name": "com.example.dtexttospeech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801652887259-c42po5d2aumosmpmhh4l3um564tgna64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEBKz9ypIqc1oNfZydAuvwzXSSTJ7_Fms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801652887259-c42po5d2aumosmpmhh4l3um564tgna64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,3 @@
+include ':IAP6Helper'
+include ':app'
+rootProject.name = "DText to Speech"

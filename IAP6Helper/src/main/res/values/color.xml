@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="dialog_title">#252525</color>
+    <color name="dialog_title_dark">#fafafa</color>
+    <color name="dialog_message">#505050</color>
+    <color name="dialog_message_extra">#9a9a9a</color>
+    <color name="dialog_message_dark">#e5e5e5</color>
+    <color name="dialog_button_text">#0074d4</color>
+    <color name="dialog_button_text_dark">#008cff</color>
+    <color name="dialog_button_pressed">#29000000</color>
+    <color name="dialog_button_separation_color">#e6e6e6</color>
+</resources>

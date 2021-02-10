@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="integer" format="float" name="dialog_width_percentage">1.0</item>
+    <item type="integer" format="float" name="dim_light">0.65</item>
+    <item type="integer" format="float" name="dim_dark">0.80</item>
+</resources>
